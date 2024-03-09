@@ -23,6 +23,7 @@ func main() {
 	// var y int = 10
 	// testPointer(&y)
 	// fmt.Println("y:", y)
-	fmt.Println(Sqrt(2))
+	// fmt.Println(Sqrt(2))
+	fmt.Println(WordCount("as as dd dd dd asdad"))
 
 }
