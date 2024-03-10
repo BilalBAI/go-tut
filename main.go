@@ -25,5 +25,6 @@ func main() {
 	// fmt.Println("y:", y)
 	// fmt.Println(Sqrt(2))
 	fmt.Println(WordCount("as as dd dd dd asdad"))
+	run_fibonacci(10)
 
 }
